@@ -1,0 +1,176 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/szys/Library/Developer/Xcode/DerivedData/MMKV-cxsxmtuzyjrkhrgbckyojozvlimt/Build/Intermediates.noindex/ArchiveIntermediates/MMKV/InstallationBuildProductsLocation/Library/Frameworks/MMKV.framework/MMKV'
+relocations:
+  - { offset: 0x33, size: 0x8, addend: 0x0, symName: _MMKVVersionString, symObjAddr: 0x0, symBinAddr: 0x1ECA0, symSize: 0x0 }
+  - { offset: 0x67, size: 0x8, addend: 0x0, symName: _MMKVVersionNumber, symObjAddr: 0x28, symBinAddr: 0x1ECC8, symSize: 0x0 }
+  - { offset: 0xD5, size: 0x8, addend: 0x0, symName: __ZL12g_cleanQueue, symObjAddr: 0x49260, symBinAddr: 0x29A40, symSize: 0x0 }
+  - { offset: 0x4132, size: 0x8, addend: 0x0, symName: __ZNSt3__117__floyd_sift_downB8ne180100INS_17_ClassicAlgPolicyERNS_4lessI13AutoCleanInfoEENS_11__wrap_iterIPS3_EEEET1_S9_OT0_NS_15iterator_traitsIS9_E15difference_typeE, symObjAddr: 0x3328, symBinAddr: 0x457C, symSize: 0x7F }
+  - { offset: 0x48BC, size: 0x8, addend: 0x0, symName: __ZNSt3__19__sift_upB8ne180100INS_17_ClassicAlgPolicyERNS_4lessI13AutoCleanInfoEENS_11__wrap_iterIPS3_EEEEvT1_S9_OT0_NS_15iterator_traitsIS9_E15difference_typeE, symObjAddr: 0x33A7, symBinAddr: 0x45FB, symSize: 0xA7 }
+  - { offset: 0x5132, size: 0x8, addend: 0x0, symName: __ZNSt3__120__throw_length_errorB8ne180100EPKc, symObjAddr: 0x31C8, symBinAddr: 0x441C, symSize: 0x4C }
+  - { offset: 0x5302, size: 0x8, addend: 0x0, symName: __ZNSt3__119__allocate_at_leastB8ne180100INS_9allocatorI13AutoCleanInfoEEEENS_19__allocation_resultINS_16allocator_traitsIT_E7pointerEEERS6_m, symObjAddr: 0x35C0, symBinAddr: 0x4814, symSize: 0x2E }
+  - { offset: 0x6170, size: 0x8, addend: 0x0, symName: __ZSt28__throw_bad_array_new_lengthB8ne180100v, symObjAddr: 0x3237, symBinAddr: 0x448B, symSize: 0x31 }
+  - { offset: 0x650E, size: 0x8, addend: 0x0, symName: __ZL25g_hasCalledInitializeMMKV, symObjAddr: 0x49230, symBinAddr: 0x29A10, symSize: 0x0 }
+  - { offset: 0x6539, size: 0x8, addend: 0x0, symName: __ZL13g_instanceDic, symObjAddr: 0x49238, symBinAddr: 0x29A18, symSize: 0x0 }
+  - { offset: 0x6584, size: 0x8, addend: 0x0, symName: __ZL6g_lock, symObjAddr: 0x49240, symBinAddr: 0x29A20, symSize: 0x0 }
+  - { offset: 0x7940, size: 0x8, addend: 0x0, symName: __ZL17g_callbackHandler, symObjAddr: 0x49248, symBinAddr: 0x29A28, symSize: 0x0 }
+  - { offset: 0x797A, size: 0x8, addend: 0x0, symName: __ZL10g_basePath, symObjAddr: 0x49250, symBinAddr: 0x29A30, symSize: 0x0 }
+  - { offset: 0x7993, size: 0x8, addend: 0x0, symName: __ZL11g_groupPath, symObjAddr: 0x49258, symBinAddr: 0x29A38, symSize: 0x0 }
+  - { offset: 0x79AD, size: 0x8, addend: 0x0, symName: __ZL11g_maxIdleMS, symObjAddr: 0x49280, symBinAddr: 0x29A60, symSize: 0x0 }
+  - { offset: 0x79D9, size: 0x8, addend: 0x0, symName: __ZL18g_autoCleanUpTimer, symObjAddr: 0x49288, symBinAddr: 0x29A68, symSize: 0x0 }
+  - { offset: 0x8038, size: 0x8, addend: 0x0, symName: '+[MMKV initializeMMKV:]', symObjAddr: 0x0, symBinAddr: 0x1260, symSize: 0x21 }
+  - { offset: 0x8096, size: 0x8, addend: 0x0, symName: '+[MMKV initializeMMKV:logLevel:]', symObjAddr: 0x21, symBinAddr: 0x1281, symSize: 0x1C }
+  - { offset: 0x8200, size: 0x8, addend: 0x0, symName: '+[MMKV initializeMMKV:logLevel:handler:]', symObjAddr: 0x3D, symBinAddr: 0x129D, symSize: 0x218 }
+  - { offset: 0x853F, size: 0x8, addend: 0x0, symName: __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC2B8ne180100ILi0EEEPKc, symObjAddr: 0x3268, symBinAddr: 0x44BC, symSize: 0x94 }
+  - { offset: 0x895D, size: 0x8, addend: 0x0, symName: __ZL10LogHandlerN4mmkv12MMKVLogLevelEPKciS2_P8NSString, symObjAddr: 0x255, symBinAddr: 0x14B5, symSize: 0x37 }
+  - { offset: 0x8A32, size: 0x8, addend: 0x0, symName: __ZL12ErrorHandlerRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEN4mmkv13MMKVErrorTypeE, symObjAddr: 0x28C, symBinAddr: 0x14EC, symSize: 0x88 }
+  - { offset: 0x8B0A, size: 0x8, addend: 0x0, symName: __ZL20ContentChangeHandlerRKNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEE, symObjAddr: 0x314, symBinAddr: 0x1574, symSize: 0x80 }
+  - { offset: 0x8BDD, size: 0x8, addend: 0x0, symName: '+[MMKV initializeMMKV:groupDir:logLevel:]', symObjAddr: 0x394, symBinAddr: 0x15F4, symSize: 0x89 }
+  - { offset: 0x8CA5, size: 0x8, addend: 0x0, symName: '+[MMKV initializeMMKV:groupDir:logLevel:handler:]', symObjAddr: 0x41D, symBinAddr: 0x167D, symSize: 0x89 }
+  - { offset: 0x8D7E, size: 0x8, addend: 0x0, symName: '+[MMKV defaultMMKV]', symObjAddr: 0x4A6, symBinAddr: 0x1706, symSize: 0x2B }
+  - { offset: 0x8DCD, size: 0x8, addend: 0x0, symName: '+[MMKV defaultMMKVWithCryptKey:]', symObjAddr: 0x4D1, symBinAddr: 0x1731, symSize: 0x2C }
+  - { offset: 0x8E2D, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:]', symObjAddr: 0x4FD, symBinAddr: 0x175D, symSize: 0x24 }
+  - { offset: 0x8E90, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:expectedCapacity:]', symObjAddr: 0x521, symBinAddr: 0x1781, symSize: 0x31 }
+  - { offset: 0x8F04, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:mode:]', symObjAddr: 0x552, symBinAddr: 0x17B2, symSize: 0x31 }
+  - { offset: 0x8F74, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:]', symObjAddr: 0x583, symBinAddr: 0x17E3, symSize: 0x22 }
+  - { offset: 0x8FE6, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:expectedCapacity:]', symObjAddr: 0x5A5, symBinAddr: 0x1805, symSize: 0x2F }
+  - { offset: 0x906B, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:mode:]', symObjAddr: 0x5D4, symBinAddr: 0x1834, symSize: 0x2E }
+  - { offset: 0x90E2, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:rootPath:]', symObjAddr: 0x602, symBinAddr: 0x1862, symSize: 0x24 }
+  - { offset: 0x9156, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:rootPath:expectedCapacity:]', symObjAddr: 0x626, symBinAddr: 0x1886, symSize: 0x34 }
+  - { offset: 0x91DB, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:relativePath:]', symObjAddr: 0x65A, symBinAddr: 0x18BA, symSize: 0x24 }
+  - { offset: 0x924F, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:rootPath:]', symObjAddr: 0x67E, symBinAddr: 0x18DE, symSize: 0x1F }
+  - { offset: 0x92D0, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:rootPath:expectedCapacity:]', symObjAddr: 0x69D, symBinAddr: 0x18FD, symSize: 0x2C }
+  - { offset: 0x9366, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:relativePath:]', symObjAddr: 0x6C9, symBinAddr: 0x1929, symSize: 0x1F }
+  - { offset: 0x93E7, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:rootPath:mode:]', symObjAddr: 0x6E8, symBinAddr: 0x1948, symSize: 0x2A }
+  - { offset: 0x9512, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvWithID:cryptKey:rootPath:mode:expectedCapacity:]', symObjAddr: 0x712, symBinAddr: 0x1972, symSize: 0x19B }
+  - { offset: 0x9752, size: 0x8, addend: 0x0, symName: __ZN4mmkv10ScopedLockINS_10ThreadLockEED2Ev, symObjAddr: 0x32FC, symBinAddr: 0x4550, symSize: 0x2C }
+  - { offset: 0x9964, size: 0x8, addend: 0x0, symName: '-[MMKV initWithMMapID:cryptKey:rootPath:mode:expectedCapacity:]', symObjAddr: 0x8AD, symBinAddr: 0x1B0D, symSize: 0x235 }
+  - { offset: 0xA50E, size: 0x8, addend: 0x0, symName: __ZNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC2B8ne180100EPKcm, symObjAddr: 0x312C, symBinAddr: 0x4380, symSize: 0x8C }
+  - { offset: 0xA8F2, size: 0x8, addend: 0x0, symName: '-[MMKV dealloc]', symObjAddr: 0xAE2, symBinAddr: 0x1D42, symSize: 0xB1 }
+  - { offset: 0xA97F, size: 0x8, addend: 0x0, symName: '-[MMKV mmapID]', symObjAddr: 0xB93, symBinAddr: 0x1DF3, symSize: 0xA }
+  - { offset: 0xA9B5, size: 0x8, addend: 0x0, symName: '-[MMKV clearAll]', symObjAddr: 0xB9D, symBinAddr: 0x1DFD, symSize: 0x10 }
+  - { offset: 0xA9E9, size: 0x8, addend: 0x0, symName: '-[MMKV clearAllWithKeepingSpace]', symObjAddr: 0xBAD, symBinAddr: 0x1E0D, symSize: 0x13 }
+  - { offset: 0xAA1D, size: 0x8, addend: 0x0, symName: '-[MMKV clearMemoryCache]', symObjAddr: 0xBC0, symBinAddr: 0x1E20, symSize: 0x17 }
+  - { offset: 0xAA51, size: 0x8, addend: 0x0, symName: '-[MMKV close]', symObjAddr: 0xBD7, symBinAddr: 0x1E37, symSize: 0xC4 }
+  - { offset: 0xABB7, size: 0x8, addend: 0x0, symName: '-[MMKV trim]', symObjAddr: 0xC9B, symBinAddr: 0x1EFB, symSize: 0xE }
+  - { offset: 0xAC6F, size: 0x8, addend: 0x0, symName: '-[MMKV cryptKey]', symObjAddr: 0xCA9, symBinAddr: 0x1F09, symSize: 0x8D }
+  - { offset: 0xB047, size: 0x8, addend: 0x0, symName: '-[MMKV reKey:]', symObjAddr: 0xD36, symBinAddr: 0x1F96, symSize: 0xC9 }
+  - { offset: 0xB458, size: 0x8, addend: 0x0, symName: '-[MMKV checkReSetCryptKey:]', symObjAddr: 0xDFF, symBinAddr: 0x205F, symSize: 0xBE }
+  - { offset: 0xB790, size: 0x8, addend: 0x0, symName: '-[MMKV setObject:forKey:]', symObjAddr: 0xEBD, symBinAddr: 0x211D, symSize: 0x14 }
+  - { offset: 0xB7EA, size: 0x8, addend: 0x0, symName: '-[MMKV setObject:forKey:expireDuration:]', symObjAddr: 0xED1, symBinAddr: 0x2131, symSize: 0x17 }
+  - { offset: 0xB855, size: 0x8, addend: 0x0, symName: '-[MMKV setBool:forKey:]', symObjAddr: 0xEE8, symBinAddr: 0x2148, symSize: 0x13 }
+  - { offset: 0xB8AF, size: 0x8, addend: 0x0, symName: '-[MMKV setBool:forKey:expireDuration:]', symObjAddr: 0xEFB, symBinAddr: 0x215B, symSize: 0x16 }
+  - { offset: 0xB91A, size: 0x8, addend: 0x0, symName: '-[MMKV setInt32:forKey:]', symObjAddr: 0xF11, symBinAddr: 0x2171, symSize: 0x13 }
+  - { offset: 0xB974, size: 0x8, addend: 0x0, symName: '-[MMKV setInt32:forKey:expireDuration:]', symObjAddr: 0xF24, symBinAddr: 0x2184, symSize: 0x16 }
+  - { offset: 0xB9DF, size: 0x8, addend: 0x0, symName: '-[MMKV setUInt32:forKey:]', symObjAddr: 0xF3A, symBinAddr: 0x219A, symSize: 0x13 }
+  - { offset: 0xBA39, size: 0x8, addend: 0x0, symName: '-[MMKV setUInt32:forKey:expireDuration:]', symObjAddr: 0xF4D, symBinAddr: 0x21AD, symSize: 0x16 }
+  - { offset: 0xBAA4, size: 0x8, addend: 0x0, symName: '-[MMKV setInt64:forKey:]', symObjAddr: 0xF63, symBinAddr: 0x21C3, symSize: 0x14 }
+  - { offset: 0xBAFE, size: 0x8, addend: 0x0, symName: '-[MMKV setInt64:forKey:expireDuration:]', symObjAddr: 0xF77, symBinAddr: 0x21D7, symSize: 0x17 }
+  - { offset: 0xBB69, size: 0x8, addend: 0x0, symName: '-[MMKV setUInt64:forKey:]', symObjAddr: 0xF8E, symBinAddr: 0x21EE, symSize: 0x14 }
+  - { offset: 0xBBC3, size: 0x8, addend: 0x0, symName: '-[MMKV setUInt64:forKey:expireDuration:]', symObjAddr: 0xFA2, symBinAddr: 0x2202, symSize: 0x17 }
+  - { offset: 0xBC2E, size: 0x8, addend: 0x0, symName: '-[MMKV setFloat:forKey:]', symObjAddr: 0xFB9, symBinAddr: 0x2219, symSize: 0x11 }
+  - { offset: 0xBC86, size: 0x8, addend: 0x0, symName: '-[MMKV setFloat:forKey:expireDuration:]', symObjAddr: 0xFCA, symBinAddr: 0x222A, symSize: 0x13 }
+  - { offset: 0xBCEF, size: 0x8, addend: 0x0, symName: '-[MMKV setDouble:forKey:]', symObjAddr: 0xFDD, symBinAddr: 0x223D, symSize: 0x11 }
+  - { offset: 0xBD47, size: 0x8, addend: 0x0, symName: '-[MMKV setDouble:forKey:expireDuration:]', symObjAddr: 0xFEE, symBinAddr: 0x224E, symSize: 0x13 }
+  - { offset: 0xBDB0, size: 0x8, addend: 0x0, symName: '-[MMKV setString:forKey:]', symObjAddr: 0x1001, symBinAddr: 0x2261, symSize: 0x12 }
+  - { offset: 0xBE26, size: 0x8, addend: 0x0, symName: '-[MMKV setString:forKey:expireDuration:]', symObjAddr: 0x1013, symBinAddr: 0x2273, symSize: 0x12 }
+  - { offset: 0xBEB2, size: 0x8, addend: 0x0, symName: '-[MMKV setDate:forKey:]', symObjAddr: 0x1025, symBinAddr: 0x2285, symSize: 0x12 }
+  - { offset: 0xBF28, size: 0x8, addend: 0x0, symName: '-[MMKV setDate:forKey:expireDuration:]', symObjAddr: 0x1037, symBinAddr: 0x2297, symSize: 0x12 }
+  - { offset: 0xBFB4, size: 0x8, addend: 0x0, symName: '-[MMKV setData:forKey:]', symObjAddr: 0x1049, symBinAddr: 0x22A9, symSize: 0x12 }
+  - { offset: 0xC02A, size: 0x8, addend: 0x0, symName: '-[MMKV setData:forKey:expireDuration:]', symObjAddr: 0x105B, symBinAddr: 0x22BB, symSize: 0x12 }
+  - { offset: 0xC0B6, size: 0x8, addend: 0x0, symName: '-[MMKV getObjectOfClass:forKey:]', symObjAddr: 0x106D, symBinAddr: 0x22CD, symSize: 0x11 }
+  - { offset: 0xC10E, size: 0x8, addend: 0x0, symName: '-[MMKV getBoolForKey:]', symObjAddr: 0x107E, symBinAddr: 0x22DE, symSize: 0x17 }
+  - { offset: 0xC178, size: 0x8, addend: 0x0, symName: '-[MMKV getBoolForKey:defaultValue:]', symObjAddr: 0x1095, symBinAddr: 0x22F5, symSize: 0x15 }
+  - { offset: 0xC1FF, size: 0x8, addend: 0x0, symName: '-[MMKV getBoolForKey:defaultValue:hasValue:]', symObjAddr: 0x10AA, symBinAddr: 0x230A, symSize: 0x16 }
+  - { offset: 0xC26A, size: 0x8, addend: 0x0, symName: '-[MMKV getInt32ForKey:]', symObjAddr: 0x10C0, symBinAddr: 0x2320, symSize: 0x17 }
+  - { offset: 0xC2D4, size: 0x8, addend: 0x0, symName: '-[MMKV getInt32ForKey:defaultValue:]', symObjAddr: 0x10D7, symBinAddr: 0x2337, symSize: 0x15 }
+  - { offset: 0xC34F, size: 0x8, addend: 0x0, symName: '-[MMKV getInt32ForKey:defaultValue:hasValue:]', symObjAddr: 0x10EC, symBinAddr: 0x234C, symSize: 0x16 }
+  - { offset: 0xC3BA, size: 0x8, addend: 0x0, symName: '-[MMKV getUInt32ForKey:]', symObjAddr: 0x1102, symBinAddr: 0x2362, symSize: 0x17 }
+  - { offset: 0xC424, size: 0x8, addend: 0x0, symName: '-[MMKV getUInt32ForKey:defaultValue:]', symObjAddr: 0x1119, symBinAddr: 0x2379, symSize: 0x15 }
+  - { offset: 0xC49F, size: 0x8, addend: 0x0, symName: '-[MMKV getUInt32ForKey:defaultValue:hasValue:]', symObjAddr: 0x112E, symBinAddr: 0x238E, symSize: 0x16 }
+  - { offset: 0xC50A, size: 0x8, addend: 0x0, symName: '-[MMKV getInt64ForKey:]', symObjAddr: 0x1144, symBinAddr: 0x23A4, symSize: 0x17 }
+  - { offset: 0xC574, size: 0x8, addend: 0x0, symName: '-[MMKV getInt64ForKey:defaultValue:]', symObjAddr: 0x115B, symBinAddr: 0x23BB, symSize: 0x15 }
+  - { offset: 0xC5EF, size: 0x8, addend: 0x0, symName: '-[MMKV getInt64ForKey:defaultValue:hasValue:]', symObjAddr: 0x1170, symBinAddr: 0x23D0, symSize: 0x17 }
+  - { offset: 0xC65A, size: 0x8, addend: 0x0, symName: '-[MMKV getUInt64ForKey:]', symObjAddr: 0x1187, symBinAddr: 0x23E7, symSize: 0x17 }
+  - { offset: 0xC6C4, size: 0x8, addend: 0x0, symName: '-[MMKV getUInt64ForKey:defaultValue:]', symObjAddr: 0x119E, symBinAddr: 0x23FE, symSize: 0x15 }
+  - { offset: 0xC73F, size: 0x8, addend: 0x0, symName: '-[MMKV getUInt64ForKey:defaultValue:hasValue:]', symObjAddr: 0x11B3, symBinAddr: 0x2413, symSize: 0x17 }
+  - { offset: 0xC7AA, size: 0x8, addend: 0x0, symName: '-[MMKV getFloatForKey:]', symObjAddr: 0x11CA, symBinAddr: 0x242A, symSize: 0x17 }
+  - { offset: 0xC80F, size: 0x8, addend: 0x0, symName: '-[MMKV getFloatForKey:defaultValue:]', symObjAddr: 0x11E1, symBinAddr: 0x2441, symSize: 0x14 }
+  - { offset: 0xC88A, size: 0x8, addend: 0x0, symName: '-[MMKV getFloatForKey:defaultValue:hasValue:]', symObjAddr: 0x11F5, symBinAddr: 0x2455, symSize: 0x14 }
+  - { offset: 0xC8F3, size: 0x8, addend: 0x0, symName: '-[MMKV getDoubleForKey:]', symObjAddr: 0x1209, symBinAddr: 0x2469, symSize: 0x17 }
+  - { offset: 0xC958, size: 0x8, addend: 0x0, symName: '-[MMKV getDoubleForKey:defaultValue:]', symObjAddr: 0x1220, symBinAddr: 0x2480, symSize: 0x14 }
+  - { offset: 0xC9D3, size: 0x8, addend: 0x0, symName: '-[MMKV getDoubleForKey:defaultValue:hasValue:]', symObjAddr: 0x1234, symBinAddr: 0x2494, symSize: 0x14 }
+  - { offset: 0xCA3C, size: 0x8, addend: 0x0, symName: '-[MMKV getStringForKey:]', symObjAddr: 0x1248, symBinAddr: 0x24A8, symSize: 0x17 }
+  - { offset: 0xCAA6, size: 0x8, addend: 0x0, symName: '-[MMKV getStringForKey:defaultValue:]', symObjAddr: 0x125F, symBinAddr: 0x24BF, symSize: 0x15 }
+  - { offset: 0xCB21, size: 0x8, addend: 0x0, symName: '-[MMKV getStringForKey:defaultValue:hasValue:]', symObjAddr: 0x1274, symBinAddr: 0x24D4, symSize: 0x7A }
+  - { offset: 0xCBD6, size: 0x8, addend: 0x0, symName: '-[MMKV getDateForKey:]', symObjAddr: 0x12EE, symBinAddr: 0x254E, symSize: 0x17 }
+  - { offset: 0xCC40, size: 0x8, addend: 0x0, symName: '-[MMKV getDateForKey:defaultValue:]', symObjAddr: 0x1305, symBinAddr: 0x2565, symSize: 0x15 }
+  - { offset: 0xCCBB, size: 0x8, addend: 0x0, symName: '-[MMKV getDateForKey:defaultValue:hasValue:]', symObjAddr: 0x131A, symBinAddr: 0x257A, symSize: 0x7A }
+  - { offset: 0xCD70, size: 0x8, addend: 0x0, symName: '-[MMKV getDataForKey:]', symObjAddr: 0x1394, symBinAddr: 0x25F4, symSize: 0x14 }
+  - { offset: 0xCDD5, size: 0x8, addend: 0x0, symName: '-[MMKV getDataForKey:defaultValue:]', symObjAddr: 0x13A8, symBinAddr: 0x2608, symSize: 0x15 }
+  - { offset: 0xCE50, size: 0x8, addend: 0x0, symName: '-[MMKV getDataForKey:defaultValue:hasValue:]', symObjAddr: 0x13BD, symBinAddr: 0x261D, symSize: 0x7A }
+  - { offset: 0xCF05, size: 0x8, addend: 0x0, symName: '-[MMKV getValueSizeForKey:actualSize:]', symObjAddr: 0x1437, symBinAddr: 0x2697, symSize: 0x13 }
+  - { offset: 0xCF5F, size: 0x8, addend: 0x0, symName: '-[MMKV writeValueForKey:toBuffer:]', symObjAddr: 0x144A, symBinAddr: 0x26AA, symSize: 0x5A }
+  - { offset: 0xCFE0, size: 0x8, addend: 0x0, symName: '-[MMKV containsKey:]', symObjAddr: 0x14A4, symBinAddr: 0x2704, symSize: 0x11 }
+  - { offset: 0xD029, size: 0x8, addend: 0x0, symName: '-[MMKV count]', symObjAddr: 0x14B5, symBinAddr: 0x2715, symSize: 0x10 }
+  - { offset: 0xD061, size: 0x8, addend: 0x0, symName: '-[MMKV totalSize]', symObjAddr: 0x14C5, symBinAddr: 0x2725, symSize: 0xE }
+  - { offset: 0xD099, size: 0x8, addend: 0x0, symName: '-[MMKV actualSize]', symObjAddr: 0x14D3, symBinAddr: 0x2733, symSize: 0xE }
+  - { offset: 0xD0D1, size: 0x8, addend: 0x0, symName: '+[MMKV pageSize]', symObjAddr: 0x14E1, symBinAddr: 0x2741, symSize: 0x10 }
+  - { offset: 0xD105, size: 0x8, addend: 0x0, symName: '+[MMKV version]', symObjAddr: 0x14F1, symBinAddr: 0x2751, symSize: 0x25 }
+  - { offset: 0xD14B, size: 0x8, addend: 0x0, symName: '-[MMKV enumerateKeys:]', symObjAddr: 0x1516, symBinAddr: 0x2776, symSize: 0x11 }
+  - { offset: 0xD190, size: 0x8, addend: 0x0, symName: '-[MMKV allKeys]', symObjAddr: 0x1527, symBinAddr: 0x2787, symSize: 0x10 }
+  - { offset: 0xD1C8, size: 0x8, addend: 0x0, symName: '-[MMKV countNonExpiredKeys]', symObjAddr: 0x1537, symBinAddr: 0x2797, symSize: 0x13 }
+  - { offset: 0xD200, size: 0x8, addend: 0x0, symName: '-[MMKV allNonExpiredKeys]', symObjAddr: 0x154A, symBinAddr: 0x27AA, symSize: 0x13 }
+  - { offset: 0xD253, size: 0x8, addend: 0x0, symName: '-[MMKV enableAutoKeyExpire:]', symObjAddr: 0x155D, symBinAddr: 0x27BD, symSize: 0x5E }
+  - { offset: 0xD2D3, size: 0x8, addend: 0x0, symName: '-[MMKV disableAutoKeyExpire]', symObjAddr: 0x15BB, symBinAddr: 0x281B, symSize: 0xE }
+  - { offset: 0xD337, size: 0x8, addend: 0x0, symName: '-[MMKV enableCompareBeforeSet]', symObjAddr: 0x15C9, symBinAddr: 0x2829, symSize: 0x69 }
+  - { offset: 0xD3B6, size: 0x8, addend: 0x0, symName: '-[MMKV disableCompareBeforeSet]', symObjAddr: 0x1632, symBinAddr: 0x2892, symSize: 0xE }
+  - { offset: 0xD3EE, size: 0x8, addend: 0x0, symName: '-[MMKV removeValueForKey:]', symObjAddr: 0x1640, symBinAddr: 0x28A0, symSize: 0x11 }
+  - { offset: 0xD433, size: 0x8, addend: 0x0, symName: '-[MMKV removeValuesForKeys:]', symObjAddr: 0x1651, symBinAddr: 0x28B1, symSize: 0x11 }
+  - { offset: 0xD478, size: 0x8, addend: 0x0, symName: '-[MMKV sync]', symObjAddr: 0x1662, symBinAddr: 0x28C2, symSize: 0x13 }
+  - { offset: 0xD4AC, size: 0x8, addend: 0x0, symName: '-[MMKV async]', symObjAddr: 0x1675, symBinAddr: 0x28D5, symSize: 0x10 }
+  - { offset: 0xD4E0, size: 0x8, addend: 0x0, symName: '-[MMKV checkContentChanged]', symObjAddr: 0x1685, symBinAddr: 0x28E5, symSize: 0xE }
+  - { offset: 0xD514, size: 0x8, addend: 0x0, symName: '+[MMKV onAppTerminate]', symObjAddr: 0x1693, symBinAddr: 0x28F3, symSize: 0xA5 }
+  - { offset: 0xD574, size: 0x8, addend: 0x0, symName: '___22+[MMKV onAppTerminate]_block_invoke', symObjAddr: 0x1738, symBinAddr: 0x2998, symSize: 0xE }
+  - { offset: 0xD670, size: 0x8, addend: 0x0, symName: __ZNSt3__114priority_queueI13AutoCleanInfoNS_6vectorIS1_NS_9allocatorIS1_EEEENS_4lessIS1_EEED1Ev, symObjAddr: 0x1746, symBinAddr: 0x29A6, symSize: 0x1D }
+  - { offset: 0xD75B, size: 0x8, addend: 0x0, symName: __ZNSt3__16vectorI13AutoCleanInfoNS_9allocatorIS1_EEE16__destroy_vectorclB8ne180100Ev, symObjAddr: 0x30A8, symBinAddr: 0x42FC, symSize: 0x56 }
+  - { offset: 0xD8D4, size: 0x8, addend: 0x0, symName: '+[MMKV enableAutoCleanUp:]', symObjAddr: 0x1763, symBinAddr: 0x29C3, symSize: 0xE8 }
+  - { offset: 0xDBD7, size: 0x8, addend: 0x0, symName: '___26+[MMKV enableAutoCleanUp:]_block_invoke', symObjAddr: 0x184B, symBinAddr: 0x2AAB, symSize: 0x19 }
+  - { offset: 0xDC0C, size: 0x8, addend: 0x0, symName: '+[MMKV disableAutoCleanUp]', symObjAddr: 0x1864, symBinAddr: 0x2AC4, symSize: 0x84 }
+  - { offset: 0xDD6E, size: 0x8, addend: 0x0, symName: '+[MMKV tryAutoCleanUpInstances]', symObjAddr: 0x18E8, symBinAddr: 0x2B48, symSize: 0x34E }
+  - { offset: 0xE07D, size: 0x8, addend: 0x0, symName: __ZNSt3__114priority_queueI13AutoCleanInfoNS_6vectorIS1_NS_9allocatorIS1_EEEENS_4lessIS1_EEE3popEv, symObjAddr: 0x1C36, symBinAddr: 0x2E96, symSize: 0x102 }
+  - { offset: 0xE6E7, size: 0x8, addend: 0x0, symName: __ZN13AutoCleanInfoD2Ev, symObjAddr: 0x30FE, symBinAddr: 0x4352, symSize: 0x2E }
+  - { offset: 0xE94D, size: 0x8, addend: 0x0, symName: '___31+[MMKV tryAutoCleanUpInstances]_block_invoke', symObjAddr: 0x1D38, symBinAddr: 0x2F98, symSize: 0xFD }
+  - { offset: 0xEC4A, size: 0x8, addend: 0x0, symName: __ZNSt3__16vectorI13AutoCleanInfoNS_9allocatorIS1_EEE24__emplace_back_slow_pathIJP8NSStringRyEEEPS1_DpOT_, symObjAddr: 0x344E, symBinAddr: 0x46A2, symSize: 0x162 }
+  - { offset: 0xF166, size: 0x8, addend: 0x0, symName: '+[MMKV mmkvBasePath]', symObjAddr: 0x1E35, symBinAddr: 0x3095, symSize: 0xA3 }
+  - { offset: 0xF251, size: 0x8, addend: 0x0, symName: '+[MMKV setMMKVBasePath:]', symObjAddr: 0x1ED8, symBinAddr: 0x3138, symSize: 0x93 }
+  - { offset: 0xF2F3, size: 0x8, addend: 0x0, symName: '-[MMKV setValue:forKey:]', symObjAddr: 0x1F6B, symBinAddr: 0x31CB, symSize: 0x2F }
+  - { offset: 0xF349, size: 0x8, addend: 0x0, symName: '-[MMKV setValue:forKeyPath:]', symObjAddr: 0x1F9A, symBinAddr: 0x31FA, symSize: 0x2F }
+  - { offset: 0xF44B, size: 0x8, addend: 0x0, symName: '+[MMKV mmapKeyWithMMapID:rootPath:]', symObjAddr: 0x1FC9, symBinAddr: 0x3229, symSize: 0x160 }
+  - { offset: 0xF678, size: 0x8, addend: 0x0, symName: '+[MMKV isFileValid:]', symObjAddr: 0x2129, symBinAddr: 0x3389, symSize: 0x14 }
+  - { offset: 0xF6DD, size: 0x8, addend: 0x0, symName: '+[MMKV isFileValid:rootPath:]', symObjAddr: 0x213D, symBinAddr: 0x339D, symSize: 0x113 }
+  - { offset: 0xFB55, size: 0x8, addend: 0x0, symName: '+[MMKV backupOneMMKV:rootPath:toDirectory:]', symObjAddr: 0x2250, symBinAddr: 0x34B0, symSize: 0x15A }
+  - { offset: 0x10070, size: 0x8, addend: 0x0, symName: '+[MMKV restoreOneMMKV:rootPath:fromDirectory:]', symObjAddr: 0x23AA, symBinAddr: 0x360A, symSize: 0x15A }
+  - { offset: 0x1058B, size: 0x8, addend: 0x0, symName: '+[MMKV backupAll:toDirectory:]', symObjAddr: 0x2504, symBinAddr: 0x3764, symSize: 0xFE }
+  - { offset: 0x109E4, size: 0x8, addend: 0x0, symName: '+[MMKV restoreAll:fromDirectory:]', symObjAddr: 0x2602, symBinAddr: 0x3862, symSize: 0xFE }
+  - { offset: 0x10E3D, size: 0x8, addend: 0x0, symName: '+[MMKV backupMultiProcessMMKV:toDirectory:]', symObjAddr: 0x2700, symBinAddr: 0x3960, symSize: 0x67 }
+  - { offset: 0x10EBF, size: 0x8, addend: 0x0, symName: '+[MMKV restoreMultiProcessMMKV:fromDirectory:]', symObjAddr: 0x2767, symBinAddr: 0x39C7, symSize: 0x67 }
+  - { offset: 0x10F41, size: 0x8, addend: 0x0, symName: '+[MMKV backupAllMultiProcessToDirectory:]', symObjAddr: 0x27CE, symBinAddr: 0x3A2E, symSize: 0x5F }
+  - { offset: 0x10FAC, size: 0x8, addend: 0x0, symName: '+[MMKV restoreAllMultiProcessFromDirectory:]', symObjAddr: 0x282D, symBinAddr: 0x3A8D, symSize: 0x5F }
+  - { offset: 0x11017, size: 0x8, addend: 0x0, symName: '+[MMKV registerHandler:]', symObjAddr: 0x288C, symBinAddr: 0x3AEC, symSize: 0xE3 }
+  - { offset: 0x11189, size: 0x8, addend: 0x0, symName: '+[MMKV unregiserHandler]', symObjAddr: 0x296F, symBinAddr: 0x3BCF, symSize: 0x59 }
+  - { offset: 0x11298, size: 0x8, addend: 0x0, symName: '+[MMKV setLogLevel:]', symObjAddr: 0x29C8, symBinAddr: 0x3C28, symSize: 0xD }
+  - { offset: 0x112D9, size: 0x8, addend: 0x0, symName: '-[MMKV migrateFromUserDefaultsDictionaryRepresentation:]', symObjAddr: 0x29D5, symBinAddr: 0x3C35, symSize: 0x108 }
+  - { offset: 0x11385, size: 0x8, addend: 0x0, symName: '___56-[MMKV migrateFromUserDefaultsDictionaryRepresentation:]_block_invoke', symObjAddr: 0x2ADD, symBinAddr: 0x3D3D, symSize: 0xA8 }
+  - { offset: 0x11476, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32o40r, symObjAddr: 0x2B85, symBinAddr: 0x3DE5, symSize: 0x38 }
+  - { offset: 0x1149F, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32o40r, symObjAddr: 0x2BBD, symBinAddr: 0x3E1D, symSize: 0x2B }
+  - { offset: 0x114BE, size: 0x8, addend: 0x0, symName: '+[MMKV tranlateData:key:kv:]', symObjAddr: 0x2BE8, symBinAddr: 0x3E48, symSize: 0x2A0 }
+  - { offset: 0x11702, size: 0x8, addend: 0x0, symName: '+[MMKV removeStorage:rootPath:]', symObjAddr: 0x2E88, symBinAddr: 0x40E8, symSize: 0x1EE }
+  - { offset: 0x11D04, size: 0x8, addend: 0x0, symName: '+[MMKV removeStorage:mode:]', symObjAddr: 0x3076, symBinAddr: 0x42D6, symSize: 0x23 }
+  - { offset: 0x12001, size: 0x8, addend: 0x0, symName: __ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE20__throw_length_errorB8ne180100Ev, symObjAddr: 0x31B8, symBinAddr: 0x440C, symSize: 0x10 }
+  - { offset: 0x1202A, size: 0x8, addend: 0x0, symName: __ZNSt3__120__throw_length_errorB8ne180100EPKc, symObjAddr: 0x31C8, symBinAddr: 0x441C, symSize: 0x4C }
+  - { offset: 0x12035, size: 0x8, addend: 0x0, symName: __ZNSt12length_errorC1B8ne180100EPKc, symObjAddr: 0x3214, symBinAddr: 0x4468, symSize: 0x23 }
+  - { offset: 0x1243B, size: 0x8, addend: 0x0, symName: __ZNSt3__114__split_bufferI13AutoCleanInfoRNS_9allocatorIS1_EEED2Ev, symObjAddr: 0x35EE, symBinAddr: 0x4842, symSize: 0x40 }
+  - { offset: 0x125C4, size: 0x8, addend: 0x0, symName: __ZNKSt3__16vectorI13AutoCleanInfoNS_9allocatorIS1_EEE20__throw_length_errorB8ne180100Ev, symObjAddr: 0x35B0, symBinAddr: 0x4804, symSize: 0x10 }
+  - { offset: 0x125ED, size: 0x8, addend: 0x0, symName: __ZNSt3__119__allocate_at_leastB8ne180100INS_9allocatorI13AutoCleanInfoEEEENS_19__allocation_resultINS_16allocator_traitsIT_E7pointerEEERS6_m, symObjAddr: 0x35C0, symBinAddr: 0x4814, symSize: 0x2E }
+...
